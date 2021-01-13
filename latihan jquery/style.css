@@ -1,0 +1,70 @@
+.main-banner {
+    background-image: url(img/mike-yukhtenko-wfh8dDlNFOk-unsplash.jpg);
+    background-size: cover;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 50px;   
+}
+
+.bg {
+    background-color: gainsboro;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.toggleBG {
+    background-color: ghostwhite;
+    color: black;
+    font-size: 30px;
+    padding: 8px;
+}
+
+.merah {
+    font-weight: bold;
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    border: 5px solid salmon;
+    display: inline-block;
+}
+
+.biru {
+    padding: 10px;
+    margin: 5px;
+    font-weight: bold;
+    background-color: rgb(4, 0, 255);
+    height: 300px;
+    width: 300px;
+    border: 5px solid rgb(114, 250, 121);
+    display: inline-block;
+}
+
+.merah {
+    padding: 20px;
+    margin: 10px;
+    font-weight: bold;
+    background-color: rgb(255, 0, 0);
+    height: 300px;
+    width: 300px;
+    border: 5px solid rgb(114, 250, 121);
+    display: inline-block;
+}
+
+.container-form {
+    background-color: gainsboro;
+    height: auto;
+    width: 650px;
+    margin: auto;
+    color: black;
+    display: none;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: whitesmoke;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    top: -33px;
+    left: 0;
+}
